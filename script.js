@@ -1,10 +1,6 @@
-function User(name,dep)
 {
-    this.name=name;
-    this.dep=dep;
+    var A=10;
+    let B=20;
+    const C=30;
 }
-
-var user1=new User("venkat","IT");
-var user2=new User("selva","IT");
-console.log(user1.name+" "+user2.name);
-console.log(user1.dep+" "+user2.dep);
+let d=100;
